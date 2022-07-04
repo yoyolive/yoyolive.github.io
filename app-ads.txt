@@ -213,3 +213,16 @@ liftoff.io, 7f6945815e6, RESELLER
 mintegral.com, 10038, RESELLER
 google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
 applovin.com, d3fcbb361cea8796001128dc4ca1aa34, DIRECT
+applovin.com, 6fef4c337b80d4e94d5b4141e88a82fd, DIRECT
+applovin.com, f460def5162e857534e9fad333634af5, DIRECT
+applovin.com, d3fcbb361cea8796001128dc4ca1aa34, DIRECT
+google.com, pub-1444777026972477, DIRECT, f08c47fec0942fa0
+facebook.com, 744728053630103, DIRECT, c3e20eee3f780d68
+google.com, pub-1148206974547742, DIRECT, f08c47fec0942fa0
+google.com, pub-7076446534599277, DIRECT, f08c47fec0942fa0
+google.com, pub-9897479575579855, DIRECT, f08c47fec0942fa0
+google.com, pub-7720709954073453, DIRECT, f08c47fec0942fa0
+google.com, pub-9793116120529715, DIRECT, f08c47fec0942fa0
+google.com, pub-9446439099248724, DIRECT, f08c47fec0942fa0
+google.com, pub-6114254035947288, DIRECT, f08c47fec0942fa0
+facebook.com, 449984346555910, RESELLER, c3e20eee3f780d68
