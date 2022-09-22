@@ -401,3 +401,4 @@ yandex.com, 40427798, RESELLER
 yandex.com, 97539269, RESELLER
 admanmedia.com, 613, RESELLER
 advlion.com, 5140, RESELLER
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
